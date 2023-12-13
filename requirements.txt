@@ -1,0 +1,14 @@
+facexlib>=0.2.5
+lmdb
+numpy
+opencv-python
+pyyaml
+scipy
+tb-nightly
+torch>=1.7
+torchvision
+tqdm
+yapf
+fastapi
+uvicorn
+python-multipart
