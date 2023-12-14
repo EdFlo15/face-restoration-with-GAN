@@ -12,3 +12,4 @@ yapf
 fastapi
 uvicorn
 python-multipart
+basicsr
