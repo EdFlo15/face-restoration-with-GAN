@@ -16,7 +16,7 @@ https://github.com/TencentARC/GFPGAN
 
 > - Step 1: Clone this project, using: 
 >```
-> git clone face-restoration-with-GAN
+> git clone https://github.com/EdFlo15/face-restoration-with-GAN.git
 >```
 > - Step 2: Enter into folder: face-restoration-with-GAN
 >```
